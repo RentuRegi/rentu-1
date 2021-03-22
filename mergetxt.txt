@@ -1,0 +1,11 @@
+Hello there!! just testing merge function:)
+Z
+^Z
+
+:x
+
+quit
+
+6z
+ZZZ
+
